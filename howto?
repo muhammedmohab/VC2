@@ -7,4 +7,4 @@ git tag
 git tag -d tagname
 
 //remotly
-git push --delete origin tagname
+git push --delete origin tagname or git push origin :refs/tags/tagname
